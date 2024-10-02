@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721362605230",
+    "project_id": "hazimdev-ab193",
+    "storage_bucket": "hazimdev-ab193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721362605230:android:e640a7c7051e1cea94493f",
+        "android_client_info": {
+          "package_name": "com.hakas.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZv0kTA03A8VsSX-ZzMtVrL-K51ZzGzFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
